@@ -9,6 +9,7 @@ var arrayObj = [
   {name: 'Jenny', type: 'borsa', color: 'pink'},
 ];
 
+console.log(arrayObj);
 
 //copia
 var arrayObj2 = [
